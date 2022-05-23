@@ -1,0 +1,46 @@
+{
+    "dashboard.button_absent" : "Scan Car",
+    "dashboard.fail_connect" : "Sorry",
+    "dashboard.fail_connect_message" : "Your Connection Problem, can't connect to Server",
+    "dashboard.history_trip" : "History Trip",
+    "dashboard.settings" : "Settings",
+    "dashboard.maintenance" : "Maintenance",
+    "dashboard.logout" : "Logout",
+    "dashboard.pleasewait" : "Please Wait..",
+    "dashboard.onjob_button" : "ON TRIP | Tap for Detail",
+
+    "settings.tittle" : "Settings",
+    "settings.bahasa" : "LANGUAGE",
+
+    "scan_absent.title" : "Scan and Car Barcodes",
+    "scan_absent.absent_information" : "Absent Information",
+    "scan_absent.detail" : "Please select a car/truck, then scan the barcode listed on the car/truck",
+    "scan_absent.uji_no" : "TEST   No :",
+    "scan_absent.lokasi" : "Location :",
+    "scan_absent.pilih" : "Chose",
+    "scan_absent.mobil_tidak_bisa_di_pakai" : "Cars / Trailers cannot be used",
+    "scan_absent.tidak_aktif" : "Not Active",
+    "scan_absent.ganti_mobil" : "Change Another Car / Trailer",
+    "scan_absent.peringatain_sebelum_pakai" : "Warning Before Use !",
+    "scan_absent.peringatan_detil" : "This car has been used by {} (ID : {}), Want to continue ?",
+    "scan_absent.salah_mobil" : "Wrong Car",
+    "scan_absent.tanggal" : "Date : ",
+    "scan_absent.tidak_ada_trailer" : "No Trailer",
+    "scan_absent.success" : "Scan the Absence and Car Barcode, Successfuly",
+    "scan_absent.kembali_ke_dashboard" : "Back to Dashboard",
+
+    "popupjob.anda_mendapatkan_order" : "YOU GET AN ORDER",
+    "popupjob.tanggal" : "Date : {}",
+    "popupjob.berangkat" : "Departure From : {}",
+    "popupjob.tiba" : "Arrival From : {}",
+    "popupjob.note" : "Note : {}",
+
+
+    "trip.confirm_trip.title" : "YOU ALREADY CONFIRM JOB",
+    "trip.scan_checkout.title" : "Please Scan Check Out, to start the trip",
+    "trip.scan_checkout.failed" : "Failed",
+    "trip.scan_checkout.failed_detail" : "Wrong or invalid barcode !",
+    "trip.start_trip.title" : "YOU ARE TRIP",
+    "trip.start_trip.detail_rute" : "DETAIL ROUTE",
+    "test" : "It Test"
+}

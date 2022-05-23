@@ -1,0 +1,49 @@
+{
+    
+    "dashboard.button_absent" : "Pindai Mobil",
+    "dashboard.fail_connect" : "Gagal",
+    "dashboard.fail_connect_message" : "Koneksi Anda Bermasalah, tidak dapat terhubung ke Server",
+    "dashboard.history_trip" : "Riwayat Trip",
+    "dashboard.settings" : "Pengaturan",
+    "dashboard.maintenance" : "Perbaikan",
+    "dashboard.logout" : "Keluar",
+    "dashboard.pleasewait" : "Mohon Tunggu...",
+    "dashboard.onjob_button" : "SEDANG TRIP | Lihat Detail",
+
+    "settings.tittle" : "Pengaturan",
+    "settings.bahasa" : "BAHASA",
+
+    "scan_absent.title" : "Pindai Barcode Absen dan Mobil",
+    "scan_absent.absent_information" : "Informasi Absen",
+    "scan_absent.detail" : "Silahkan Pilih mobil / truck, lalu scan barcode yang tertera di mobil / truck",
+    "scan_absent.uji_no" : "Uji   No :",
+    "scan_absent.lokasi" : "Lokasi :",
+    "scan_absent.pilih" : "Pilih",
+    "scan_absent.peringatan_detil" : "Mobil Ini Sudah Di pakai oleh {} (ID : {}), ingin melanjutkan ?",
+    "scan_absent.mobil_tidak_bisa_di_pakai" : "Mobil / Trailer tidak dapat di pakai",
+    "scan_absent.tidak_aktif" : "Tidak Aktif",
+    "scan_absent.ganti_mobil" : "Ganti Mobil / Trailer",
+    "scan_absent.peringatain_sebelum_pakai" : "Peringatan Sebelum Pakai !",
+    "scan_absent.salah_mobil" : "Salah Mobil",
+    "scan_absent.tanggal" : "Tanggal : ",
+    "scan_absent.tidak_ada_trailer" : "Tidak Ada Trailer",
+    "scan_absent.success" : "Scan Barcode Absen dan Mobil, berhasil",
+    "scan_absent.kembali_ke_dashboard" : "Kembali ke Dashboard",
+
+
+    "popupjob.anda_mendapatkan_order" : "ANDA MENDAPATKAN ORDER",
+    "popupjob.tanggal" : "Tanggal : {}",
+    "popupjob.berangkat" : "Berangkat Dari : {}",
+    "popupjob.tiba" : "Tiba di : {}",
+    "popupjob.note" : "Catatan : {}",
+
+    "trip.confirm_trip.title" : "ANDA SUDAH CONFIRM JOB",
+    "trip.scan_checkout.title" : "Silahkan Scan Check Out, untuk memulai Trip",
+    "trip.scan_checkout.failed" : "Gagal",
+    "trip.scan_checkout.failed_detail" : "Barcode salah atau tidak valid !",
+    "trip.start_trip.title" : "ANDA SEDANG TRIP",
+    "trip.start_trip.detail_rute" : "DETAIL RUTE",
+    
+    
+    "test" : "Ini Test"
+}
